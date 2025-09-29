@@ -1,0 +1,28 @@
+# Виртуальное окружение
+venv/
+.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи
+*.log
+
+# Тестовые отчёты
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+*.db
+*.sqlite
+report.html
+
+# Настройки IDE/редакторов
+.vscode/
+
+# Файлы окружения
+.env
+.env.*

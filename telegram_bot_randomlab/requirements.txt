@@ -1,0 +1,5 @@
+python-telegram-bot
+python-dotenv
+pytest
+pytest-asyncio
+pytest-html
